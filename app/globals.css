@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Nabla&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Honk&display=swap');
 
 @import 'tailwindcss';
 @import 'tw-animate-css';
@@ -6,7 +6,7 @@
 @custom-variant dark (&:is(.dark *));
 
 @theme {
-  --font-heading: 'Nabla', cursive;
+  --font-honk: 'Honk', sans-serif;
 }
 
 @theme inline {

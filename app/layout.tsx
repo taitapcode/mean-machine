@@ -1,6 +1,6 @@
 import type { Metadata } from 'next';
 import './globals.css';
-import Background from './_components/Background';
+import Background from '@/components/Background';
 
 export const metadata: Metadata = {
   title: 'Mean Machine',
